@@ -1,0 +1,7 @@
+PDFMiner Text Extraction Analysis
+==================================================
+
+Total tokens before cleaning (all documents): 252,865
+Total tokens after cleaning (all documents): 238,797
+Average token decrease percentage: 5.03%
+Total number of documents processed: 20

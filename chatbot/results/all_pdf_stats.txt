@@ -1,0 +1,21 @@
+PDF Text Extraction Summary
+========================
+
+PyPDF2 Results:
+-----------------
+Total Words Detected: 109,166
+Average Spelling Accuracy: 79.37%
+Total Processing Time: 25.37 seconds
+
+PyMuPDF Results:
+-----------------
+Total Words Detected: 140,105
+Average Spelling Accuracy: 84.96%
+Total Processing Time: 2.02 seconds
+
+PDFMiner Results:
+-----------------
+Total Words Detected: 131,446
+Average Spelling Accuracy: 86.27%
+Total Processing Time: 60.54 seconds
+
